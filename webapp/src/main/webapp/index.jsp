@@ -7,6 +7,11 @@
     <label for="Name"><b>Enter First_Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
+   
+
+    <label for="Name"><b>Enter Middle_Name</b></label>
+    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <br>
     
     <label for="Last-Name"><b>Enter Last_Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
